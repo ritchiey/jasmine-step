@@ -1,11 +1,11 @@
 {
-  "name": "your-lib-name-here",
+  "name": "jasmine-given-steps",
   "version": "0.0.1",
-  "description": "A description about how Lineman helped you build your lib",
-  "homepage": "https://your/lib/name/here",
+  "description": "Descriptive steps for Jasmine-Given",
+  "homepage": "https://github.com/ritchiey/jasmine-given-steps",
   "author": {
-    "name": "John Doe",
-    "company": "ACME, Inc."
+    "name": "Ritchie Young",
+    "company": "SpecHero"
   },
   "main": "main.js",
   "dependencies": {
